@@ -1,0 +1,6 @@
+@myDashboard_HostAddress = http://localhost:5226
+
+GET {{myDashboard_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
