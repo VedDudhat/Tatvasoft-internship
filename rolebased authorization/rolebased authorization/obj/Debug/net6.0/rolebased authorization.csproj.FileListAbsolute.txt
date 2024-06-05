@@ -1,0 +1,72 @@
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\bin\Debug\net6.0\appsettings.Development.json
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\bin\Debug\net6.0\appsettings.json
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\bin\Debug\net6.0\rolebased authorization.exe
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\bin\Debug\net6.0\rolebased authorization.deps.json
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\bin\Debug\net6.0\rolebased authorization.runtimeconfig.json
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\bin\Debug\net6.0\rolebased authorization.dll
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\bin\Debug\net6.0\rolebased authorization.pdb
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\obj\Debug\net6.0\rolebased authorization.csproj.AssemblyReference.cache
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\obj\Debug\net6.0\rolebased authorization.GeneratedMSBuildEditorConfig.editorconfig
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\obj\Debug\net6.0\rolebased authorization.AssemblyInfoInputs.cache
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\obj\Debug\net6.0\rolebased authorization.AssemblyInfo.cs
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\obj\Debug\net6.0\rolebased authorization.csproj.CoreCompileInputs.cache
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\obj\Debug\net6.0\rolebased authorization.MvcApplicationPartsAssemblyInfo.cs
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\obj\Debug\net6.0\rolebased authorization.MvcApplicationPartsAssemblyInfo.cache
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\obj\Debug\net6.0\staticwebassets.build.json
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\obj\Debug\net6.0\staticwebassets.development.json
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\obj\Debug\net6.0\staticwebassets\msbuild.rolebased authorization.Microsoft.AspNetCore.StaticWebAssets.props
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\obj\Debug\net6.0\staticwebassets\msbuild.build.rolebased authorization.props
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.rolebased authorization.props
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.rolebased authorization.props
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\obj\Debug\net6.0\staticwebassets.pack.json
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\obj\Debug\net6.0\scopedcss\bundle\rolebased authorization.styles.css
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\obj\Debug\net6.0\rolebase.454BC7BD.Up2Date
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\obj\Debug\net6.0\rolebased authorization.dll
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\obj\Debug\net6.0\refint\rolebased authorization.dll
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\obj\Debug\net6.0\rolebased authorization.pdb
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\obj\Debug\net6.0\rolebased authorization.genruntimeconfig.cache
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\obj\Debug\net6.0\ref\rolebased authorization.dll
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\bin\Debug\net6.0\Humanizer.dll
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\bin\Debug\net6.0\Npgsql.dll
+D:\collage\TATVASOFT INTERNSHIP\.NET\rolebased authorization\rolebased authorization\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
